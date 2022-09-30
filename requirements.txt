@@ -9,7 +9,7 @@ googlesearch-python==2020.0.2
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.3
-joblib==1.0.1
+joblib==1.2.0
 lxml==4.6.3
 MarkupSafe==1.1.1
 numpy==1.20.2
